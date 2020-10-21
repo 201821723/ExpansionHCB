@@ -1,0 +1,40 @@
+h2 {
+    color: black;
+    background-color: yellow;
+    text-align: center;
+  }
+  h1 {
+    color: orange;
+  }p{
+    color: white;
+  }
+  a[href="https://www.instagram.com/senecalacabra/"]
+  {
+    font-style: italic;
+    font-size: large;
+  }
+  a[href="https://www.facebook.com/SenecaLaCabra/"]
+  {
+    font-style: italic;
+    font-size: large;
+  }
+  body {
+    background-color: black;
+  }
+  .photo {
+    height: 245px;
+  }
+  .photo1 {
+    height: 335px;
+  }
+  .photo2 {
+    height: 155px;
+  }
+  .photo3 {
+    height: 127px;
+  }
+  #columna{
+    display: block;
+    color: white;
+    margin: 6px;
+  }
